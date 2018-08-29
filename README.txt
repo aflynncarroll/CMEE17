@@ -1,7 +1,5 @@
 # CMEE17
-Data for CMEE Masters Thesis
-
-
+Code for CMEE Masters Thesis
 
 CMEE17$ 
 
@@ -17,7 +15,7 @@ CMEE17$
 │   ├── hered_re5.R
 │   ├── hered_re8.R
 │   ├── null_mod2.R
-│   ├── null_mod.R
+│   ├── null_mod.
 │   ├── run_hpc2.sh
 │   ├── run_hpc_a.sh
 │   ├── run_hpc_null.sh
