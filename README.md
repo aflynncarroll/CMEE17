@@ -1,2 +1,2 @@
 # CMEE17
-Data for CMEE Masters Thesis
+Code for CMEE Masters Thesis
