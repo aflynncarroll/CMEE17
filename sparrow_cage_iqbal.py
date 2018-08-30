@@ -288,8 +288,5 @@ def parse_iq(cage_date):
 #map(parse_iq, iq_d)
 
 #parse_iq('20170710')
-#Series.apply(parse_iq, args=iq_d)
 
-for x in iq_d:
-        parse_iq(x)
 
